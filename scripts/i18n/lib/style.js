@@ -43,6 +43,15 @@ export const LOCALE_STYLES = {
     notes:
       'Full Polish diacritics. Decline tag/tracker/widok/źródło in plurals. clear → Wyczyść. close → Zamknij.',
   },
+  'pt-BR': {
+    formality: 'Neutral "você"; imperative for actions',
+    quotationMarks: '“{query}” (U+201C upper-6, U+201D upper-9)',
+    ellipsis: '…',
+    examplePrefix: 'ex.',
+    icuPlurals: 'one, other',
+    notes:
+      'Sentence case. Adicionar for link/magnet adds; Enviar for physical file uploads. Keep torrent, seed/seeding, peer, ratio, tracker, magnet, hash, ETA, Usenet, NZB, RSS, Airlock, stream. Normalize WebDL. delete → Excluir; remove → Remover; Protect → Proteger; cached state → em cache. Pass Check → Ignorar verificação de cache.',
+  },
 };
 
 export const GLOBAL_RULES = [
