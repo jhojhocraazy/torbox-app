@@ -429,6 +429,7 @@
     "original_url": "URL de origem",
     "private": "Tracker privado",
     "progress": "Progresso",
+    "relevance": "Relevância",
     "size": "Tamanho",
     "total_downloaded": "Total baixado",
     "total_uploaded": "Total enviado",
@@ -1386,7 +1387,9 @@
     "searchDownloadsHelpIntro": "Corresponde a títulos de downloads e nomes de arquivos.",
     "searchDownloadsHelpOr": "Várias palavras — corresponde se qualquer palavra aparecer (ex.: 1080p bluray)",
     "searchDownloadsHelpPhrase": "Aspas — corresponde à frase exata (ex.: “season 1”)",
+    "searchDownloadsHelpRanking": "Resultados ordenados por relevância: mais palavras correspondentes primeiro; palavras comuns (como \"the\") contam menos. Troque a ordenação quando quiser.",
     "searchExamples": "Exemplos de busca",
+    "sortByRelevance": "Ordenar por relevância",
     "streamFilters": "Filtros de stream",
     "validation": {
       "addonsLoading": "Carregando seus addons… tente novamente em instantes.",
