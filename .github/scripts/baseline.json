@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-13T01:19:40.0067759-03:00",
+  "repos": {
+    "torbox-app": {
+      "baseCommit": "e241f40dae54520b45e8ebccff1e99d0e06f4837",
+      "upstreamRef": "upstream/main",
+      "updatedAt": "2026-11-13T01:19:40.0068479-03:00",
+      "note": "Baseline fixada para o workflow single-repo"
+    }
+  }
+}
