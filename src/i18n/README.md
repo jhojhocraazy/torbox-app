@@ -1,6 +1,6 @@
 # i18n — Internationalisation
 
-Supported locales: `en` (default), `de`, `es`, `fr`, `ja`, `pl`.
+Supported locales: `en` (default), `de`, `es`, `fr`, `ja`, `pl`, `pt-BR`.
 
 **Primary audience:** autonomous coding agents. Use the CLI; do not hand-edit locale files without running verify.
 
@@ -98,9 +98,9 @@ Detailed per-locale conventions live in [`scripts/i18n/lib/style.js`](../../scri
 
 | Language       | Plural categories             |
 | -------------- | ----------------------------- |
-| en, de, es, fr | `one`, `other`                |
-| ja             | `other` only                  |
-| pl             | `one`, `few`, `many`, `other` |
+| en, de, es, fr, pt-BR | `one`, `other`                |
+| ja                    | `other` only                  |
+| pl                    | `one`, `few`, `many`, `other` |
 
 ## Runtime merge
 
